@@ -1,4 +1,4 @@
-# 🧠 NeuroSynth AI: Brain Tumor Detection & MRI Synthesis
+# NeuroSynth AI: Brain Tumor Detection & MRI Synthesis
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 🚀 Key Features
+## Key Features
 
 * **Multi-Modal Analysis:** Processes 4 MRI modalities (T1, T2, FLAIR, T1c) for robust diagnosis.
 * **Smart Triage Pipeline:** A cost-effective 2-stage workflow:
@@ -19,7 +19,7 @@
 
 ---
 
-## 🛠️ System Architecture
+## System Architecture
 
 The pipeline consists of two core modules:
 
@@ -35,7 +35,7 @@ The pipeline consists of two core modules:
 
 ---
 
-## 📊 Results & Visualization
+## Results & Visualization
 
 ### Medical Image Synthesis (T1 to T1c)
 *Comparison between Original T1, Generated T1c, and Ground Truth T1c.*
@@ -51,7 +51,7 @@ The pipeline consists of two core modules:
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 * **Core:** Python, PyTorch, NumPy.
 * **Computer Vision:** PIL, Scikit-Image.
@@ -60,7 +60,7 @@ The pipeline consists of two core modules:
 
 ---
 
-## ⚙️ Installation & Usage
+## Installation & Usage
 
 1. **Clone the repository**
    ```bash
