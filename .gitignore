@@ -1,0 +1,12 @@
+*.zip
+*.png
+*.jpg
+*.jpeg
+*.nii.gz
+T1*
+BraTS*
+generated_results/
+__pycache__/
+.config/
+drive/
+sample_data/
