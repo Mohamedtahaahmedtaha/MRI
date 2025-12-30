@@ -40,7 +40,6 @@ The pipeline consists of two core modules:
 ### Medical Image Synthesis (T1 to T1c)
 *Comparison between Original T1, Generated T1c, and Ground Truth T1c.*
 
-![GAN Results](https://via.placeholder.com/800x300?text=Place+Your+Result+Image+Here+(Original+vs+Generated+vs+Ground+Truth))
 
 ### Performance Metrics
 | Metric | Value | Description |
@@ -64,5 +63,5 @@ The pipeline consists of two core modules:
 
 1. **Clone the repository**
    ```bash
-   git clone [https://github.com/MohamedTahaAhmedTaha/MRI.git](https://github.com/MohamedTahaAhmedTaha/MRI.git)
+   git clone https://github.com/MohamedTahaAhmedTaha/MRI.git
    cd MRI
